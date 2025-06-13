@@ -1,6 +1,6 @@
 # 👋 Greetings visitor, I'm Nicholas and I am a Data Scientist and Software Developer!
 
-🎓 *Data Scientist | Software Developer | R&D Engineer*
+🎓 *Data Scientist | Software Developer | R&D Engineer*<br/>
 📍 *Athens, Greece*<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nepiskopos)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nepiskopos)
