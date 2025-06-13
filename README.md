@@ -16,6 +16,13 @@ I am deeply passionate about how **AI and Data Science** shape the future — bo
 
 ---
 
+## 📊 GitHub Stats
+
+![Nikolaos' GitHub Stats]([https://github-readme-stats.vercel.app/api?username=nepiskopos&show_icons=true&theme=default&hide_title=false](https://github-readme-stats.vercel.app/api?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&count_private=true))  
+![Nikolaos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nepiskopos&theme=slateorange&hide_border=true)
+![Nikolaos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+---
+
 ## 🔧 Tech Stack & Tools
 
 - **Languages:** Python, JavaScript, C, SQL  
@@ -42,14 +49,6 @@ I am deeply passionate about how **AI and Data Science** shape the future — bo
 - 📖 [Optimal Video Bitrate Selection and Edge Network Caching (IEEE TVT)](https://doi.org/10.1109/TVT.2023.3329662)  
 - 📖 [Survey on Federated Intrusion Detection Systems (Computer Science Review)](https://doi.org/10.1016/j.cosrev.2024.100717)  
 - 📖 [SECONDO: Cybersecurity Investment Platform (TrustBus)](https://doi.org/10.1007/978-3-030-58986-8_5)  
-
----
-
-## 📊 GitHub Stats
-
-![Nikolaos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepiskopos&show_icons=true&theme=default&hide_title=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepiskopos&layout=compact&langs_count=6&hide_progress=false)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nepiskopos&theme=flat&column=7)
 
 ---
 
