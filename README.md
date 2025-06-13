@@ -1,8 +1,8 @@
 # 👋 Greetings visitor, I'm Nicholas and I am a Data Scientist and Software Developer!
 
 🎓 *Data Scientist | Software Developer | R&D Engineer*
-📍 *Athens, Greece*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nepiskopos)
+📍 *Athens, Greece*<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nepiskopos)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nepiskopos)
 
 ---
@@ -19,10 +19,8 @@ I am deeply passionate about how **AI and Data Science** shape the future — bo
 
 ## 📊 GitHub Stats
 
-![Nicholas's Stats](https://github-readme-stats.vercel.app/api?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-
-![Nicholas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nepiskopos&theme=slateorange&hide_border=true)
-
+![Nicholas's Stats](https://github-readme-stats.vercel.app/api?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&count_private=true)<br/>
+![Nicholas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nepiskopos&theme=slateorange&hide_border=true)<br/>
 ![Nicholas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 ---
