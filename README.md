@@ -1,8 +1,9 @@
 # 👋 Greetings visitor, I'm Nicholas and I am a Data Scientist and Software Developer!
 
-🎓 *Data Scientist | Software Developer | R&D Engineer*  
-📍 *Athens, Greece*  
-🌐 [LinkedIn](https://www.linkedin.com/in/nepiskopos) • [GitHub](https://github.com/nepiskopos)
+🎓 *Data Scientist | Software Developer | R&D Engineer*
+📍 *Athens, Greece*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nepiskopos)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nepiskopos)
 
 ---
 
@@ -28,44 +29,44 @@ I am deeply passionate about how **AI and Data Science** shape the future — bo
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages:** Python, JavaScript, C, SQL  
-- **AI/ML:** TensorFlow, Keras, Scikit-learn, PyTorch, FedTree, Flower  
-- **Cloud:** Microsoft Azure, Docker, OpenStack  
-- **Web:** Flask, FastAPI, REST APIs, SQLite  
-- **DevOps:** Git, GitHub Actions, Azure Pipelines  
-- **Data:** Pandas, NumPy, Matplotlib, Dash  
-- **Other:** RAG, Federated Learning, Edge AI, LLM Evaluation  
+- **Languages:** Python, JavaScript, C, SQL
+- **AI/ML:** TensorFlow, Keras, Scikit-learn, PyTorch, FedTree, Flower
+- **Cloud:** Microsoft Azure, Docker, OpenStack
+- **Web:** Flask, FastAPI, REST APIs, SQLite
+- **DevOps:** Git, GitHub Actions, Azure Pipelines
+- **Data:** Pandas, NumPy, Matplotlib, Dash
+- **Other:** RAG, Federated Learning, Edge AI, LLM Evaluation
 
 ---
 
 ## 🚀 Highlight Projects
 
-- 💬 **LLM-Powered Chatbot Frameworks** – Designed custom LLM chatbot solutions using RAG and LLM fine-tuning for clients like the **National Bank of Greece**.  
-- 🧠 **Federated Intrusion Detection Toolkit** – Developed MetaMind’s Federated Learning Security Toolkit for anomaly and intrusion detection in SCADA systems and EV charging hubs.  
-- 📈 **AI Tools for Raw Materials Discovery** – Built AI pipelines to estimate critical raw material concentrations and identify potential lithium extraction sites from brine reservoirs.  
-- 📺 **P2P Video Optimization** – Engineered a D2D video delivery system using Blockchain and Smart Contracts, published in IEEE Transactions on Vehicular Technology.  
+- 💬 **LLM-Powered Chatbot Frameworks** – Designed custom LLM chatbot solutions using RAG and LLM fine-tuning for clients like the **National Bank of Greece**.
+- 🧠 **Federated Intrusion Detection Toolkit** – Developed MetaMind’s Federated Learning Security Toolkit for anomaly and intrusion detection in SCADA systems and EV charging hubs.
+- 📈 **AI Tools for Raw Materials Discovery** – Built AI pipelines to estimate critical raw material concentrations and identify potential lithium extraction sites from brine reservoirs.
+- 📺 **P2P Video Optimization** – Engineered a D2D video delivery system using Blockchain and Smart Contracts, published in IEEE Transactions on Vehicular Technology.
 
 ---
 
 ## 📚 Publications
 
-- 📖 [Optimal Video Bitrate Selection and Edge Network Caching (IEEE TVT)](https://doi.org/10.1109/TVT.2023.3329662)  
-- 📖 [Survey on Federated Intrusion Detection Systems (Computer Science Review)](https://doi.org/10.1016/j.cosrev.2024.100717)  
-- 📖 [SECONDO: Cybersecurity Investment Platform (TrustBus)](https://doi.org/10.1007/978-3-030-58986-8_5)  
+- 📖 [Optimal Video Bitrate Selection and Edge Network Caching (IEEE TVT)](https://doi.org/10.1109/TVT.2023.3329662)
+- 📖 [Survey on Federated Intrusion Detection Systems (Computer Science Review)](https://doi.org/10.1016/j.cosrev.2024.100717)
+- 📖 [SECONDO: Cybersecurity Investment Platform (TrustBus)](https://doi.org/10.1007/978-3-030-58986-8_5)
 
 ---
 
 ## 🧩 What I’m Working On
 
-- Open-source LLM integrations with real-time data via RAG  
-- Lightweight, containerized AI solutions for constrained environments  
-- Privacy-preserving AI systems for sensitive domains  
+- Open-source LLM integrations with real-time data via RAG
+- Lightweight, containerized AI solutions for constrained environments
+- Privacy-preserving AI systems for sensitive domains
 
 ---
 
 ## 🤝 Let’s Connect
 
-Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/nepiskopos).  
+Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/nepiskopos).
 I’m always open to discussions on AI, research collaborations, or innovative tech initiatives.
 
 <!-- Email hidden intentionally -->
