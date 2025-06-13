@@ -27,13 +27,13 @@ I am deeply passionate about how **AI and Data Science** shape the future — bo
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages:** Python, JavaScript, C, SQL
-- **AI/ML:** TensorFlow, Keras, Scikit-learn, PyTorch, FedTree, Flower
-- **Cloud:** Microsoft Azure, Docker, OpenStack
-- **Web:** Flask, FastAPI, REST APIs, SQLite
+- **Languages:** Python, C#, Java, SQL
+- **AI/ML:** LangGraph, LangChain, TensorFlow, Keras, Scikit-learn, PyTorch
+- **Cloud:** Microsoft Azure, OpenStack, Docker
+- **Web:** FastAPI, REST APIs, Flask
 - **DevOps:** Git, GitHub Actions, Azure Pipelines
-- **Data:** Pandas, NumPy, Matplotlib, Dash
-- **Other:** RAG, Federated Learning, Edge AI, LLM Evaluation
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, PowerBI, Tableau
+- **Other:** RAG, LLMs, GenAI, Federated Learning, Edge AI
 
 ---
 
