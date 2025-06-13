@@ -1,6 +1,6 @@
 # 👋 Greetings visitor, I'm Nicholas and I am a Data Scientist and Software Developer!
 
-🎓 *Data Scientist | Software Developer | Consultant*  
+🎓 *Data Scientist | Software Developer | R&D Engineer*  
 📍 *Athens, Greece*  
 🌐 [LinkedIn](https://www.linkedin.com/in/nepiskopos) • [GitHub](https://github.com/nepiskopos)
 
