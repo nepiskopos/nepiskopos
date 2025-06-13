@@ -1,4 +1,4 @@
-# 👋 Greetings visitor, I'm Nikos and I am a Data Scientist and Software Developer!
+# 👋 Greetings visitor, I'm Nicholas and I am a Data Scientist and Software Developer!
 
 🎓 *Data Scientist | Software Developer | Consultant*  
 📍 *Athens, Greece*  
@@ -18,9 +18,12 @@ I am deeply passionate about how **AI and Data Science** shape the future — bo
 
 ## 📊 GitHub Stats
 
-![Nikolaos' GitHub Stats]([https://github-readme-stats.vercel.app/api?username=nepiskopos&show_icons=true&theme=default&hide_title=false](https://github-readme-stats.vercel.app/api?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&count_private=true))  
-![Nikolaos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nepiskopos&theme=slateorange&hide_border=true)
-![Nikolaos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+![Nicholas's Stats](https://github-readme-stats.vercel.app/api?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+
+![Nicholas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nepiskopos&theme=slateorange&hide_border=true)
+
+![Nicholas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepiskopos&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ## 🔧 Tech Stack & Tools
