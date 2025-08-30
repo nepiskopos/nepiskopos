@@ -2,7 +2,7 @@
 
 🎓 *Data Scientist | Software Developer | A.I. Consultant*<br/>
 📍 *Athens, Greece*<br/>
-[![Website](https://img.shields.io/badge/Website%20Name-blue?style=flat&logo=Name%20of%20logo)](https://nepiskopos.github.io)
+[![Website](https://img.shields.io/badge/Website%20Name-blue?style=flat&logo=Name%20of%20logo)](https://nepiskopos.github.io)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nepiskopos)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nepiskopos)
 
