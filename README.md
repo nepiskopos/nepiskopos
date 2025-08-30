@@ -1,6 +1,6 @@
 # 👋 Greetings visitor, I'm Nicholas and I am a Data Scientist and Software Developer!
 
-🎓 *Data Scientist | Software Developer | R&D Engineer*<br/>
+🎓 *Data Scientist | Software Developer | A.I. Consultant*<br/>
 📍 *Athens, Greece*<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nepiskopos)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nepiskopos)
@@ -28,11 +28,11 @@ I am deeply passionate about how **AI and Data Science** shape the future — bo
 ## 🔧 Tech Stack & Tools
 
 - **Languages:** Python, C#, Java, SQL, Bash
-- **AI/ML:** LangGraph, LangChain, TensorFlow, Keras, Scikit-learn, PyTorch
-- **Cloud:** Microsoft Azure, OpenStack, Docker
-- **Web:** FastAPI, REST APIs, Flask
-- **DevOps:** Git, GitHub Actions, Azure Pipelines, Linux
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn, PowerBI, Tableau
+- **AI/ML:** AI Agents, LangGraph, LangChain, PyTorch, TensorFlow, scikit-learn
+- **Cloud:** Microsoft Azure, OpenStack, Linux
+- **Web:** REST APIs, FastAPI, Flask
+- **DevOps:** Git, GitHub Actions, Azure Pipelines, Docker, Kubernetes
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit, PowerBI, Tableau
 - **Other:** RAG, LLMs, GenAI, Federated Learning, Edge AI
 
 ---
