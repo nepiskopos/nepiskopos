@@ -1,9 +1,9 @@
 # 👋 Greetings visitor, I'm Nicholas and I am a Data Scientist and Software Developer!
 
-🎓 *Data Scientist | Software Developer | A.I. Consultant*<br/>
+🎓 *Data Scientist &nbsp; | &nbsp; Software Developer &nbsp; | &nbsp; A.I. Consultant*<br/>
 📍 *Athens, Greece*<br/><br/>
-[![Website](https://img.shields.io/badge/Website-6272A4?style=for-the-badge)](https://nepiskopos.github.io)&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nepiskopos)&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-6272A4?style=for-the-badge)](https://nepiskopos.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nepiskopos)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nepiskopos)
 
 ---
