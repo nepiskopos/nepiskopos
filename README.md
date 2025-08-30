@@ -4,13 +4,13 @@
 📍 *Athens, Greece*<br/>
 [![Website](https://img.shields.io/badge/Website-6272A4?style=for-the-badge)](https://nepiskopos.github.io)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nepiskopos)<br/>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nepiskopos)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nepiskopos)
 
 ---
 
 ## 💼 About Me
 
-I'm a Data Scientist and Software Developer with 8+ years of experience delivering end-to-end solutions across commercial and EU-funded R&D projects. I specialize in **Large Language Models (LLMs)**, **Generative AI**, and **AI-driven systems** in domains like **Healthcare**, **Cybersecurity**, and **Banking**.
+I'm a Data Scientist and Software Developer with 8+ years of experience delivering end-to-end solutions across commercial and EU-funded R&D projects. I specialize in **Large Language Models (LLMs)**, **Generative AI**, and **AI-agents** in domains like **Healthcare**, **Cybersecurity**, and **Banking**.
 
 Currently at **IBM**, I design and deploy LLM-based chatbot solutions tailored to banking clients using tools like **Docker**, **Azure**, and **RAG architectures**.
 
