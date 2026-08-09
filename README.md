@@ -37,8 +37,8 @@ Over my career I've delivered **50+ AI projects**, contributed to **10+ EU-funde
 ## 🚀 Experience Highlights
 
 - 🏛️ **Grant Thornton** *(Jan 2026 – Present)* — Senior ML Engineer, AI Consultant & Software Developer, leading Agentic AI & ML/DL solutions for Greece's Independent Authority for Public Revenue.
-- 🏛️ **EETAA** *(Feb 2025 – Present)* — Senior Software Engineering Consultant, orchestrating enterprise-scale legacy-to-modern systems migration for government initiatives.
-- 🏦 **IBM — National Bank of Greece** *(Jan 2025 – Dec 2025)* — Enterprise AI Banking Solutions Architect, architecting and deploying intelligent automation agents.
+- 🏛️ **EETAA** *(2025 – Present)* — Senior Software Engineering Consultant, orchestrating enterprise-scale legacy-to-modern systems migration for government initiatives.
+- 🏦 **IBM — National Bank of Greece** *(2025)* — Enterprise AI Banking Solutions Architect, architecting and deploying intelligent automation agents.
 - 🌍 **INLECOM** *(2023 – 2024)* — Delivered CONNECTOR (EU border security), EMERALDS (smart city mobility), and CRM-geothermal (critical raw materials AI) Horizon Europe projects.
 - 🛡️ **MetaMind Innovations** *(2022 – 2023)* — Delivered ELECTRON, DYNABIC, TERMINET, and AI4CYBER — Horizon 2020/Europe cybersecurity and IoT platforms.
 - 🎥 **Fogus Innovations** *(2019 – 2022)* — Delivered OPTIMIST, INCOGNITO, RE-CENT, and SECONDO — 5G, privacy, decentralized content, and cyber-risk platforms.
