@@ -13,7 +13,7 @@
 
 I'm a Senior AI Engineer with **9+ years** building and shipping production software systems — from research prototypes to enterprise-scale deployments. I specialize in **Agentic AI** (LangGraph), **Retrieval-Augmented Generation (RAG)** pipelines on **Azure AI Search**, and **MLOps**, working across **Healthcare**, **Cybersecurity**, and **Banking** domains.
 
-Currently, I'm **Senior ML Engineer, AI Consultant & Software Developer at Grant Thornton**, leading enterprise AI transformation for Greece's **Independent Authority for Public Revenue (IAPR)**, and **Senior Software Engineering Consultant at EETAA**, driving government modernization through enterprise-scale systems migration. I've also led AI transformation efforts for the **National Bank of Greece** as an Enterprise AI Banking Solutions Architect.
+Currently, I'm **Senior ML Engineer, AI Consultant & Software Developer at Grant Thornton**, where I lead Data & AI-driven tax audit targeting for Greece's **Independent Authority for Public Revenue (IAPR)**, build LLM-powered information extraction for a banking client, and have delivered ML-based anomaly and intrusion detection for cybersecurity. I'm also **Senior Software Engineering Consultant at EETAA**, driving government modernization through enterprise-scale systems migration. In 2025, I led AI transformation efforts for the **National Bank of Greece** (via IBM) as an Enterprise AI Banking Solutions Architect.
 
 Over my career I've delivered **50+ AI projects**, contributed to **10+ EU-funded research initiatives** (Horizon Europe, Horizon 2020, FP7), and remain deeply passionate about applying **AI and Data Science** responsibly for meaningful, real-world impact.
 
@@ -27,18 +27,21 @@ Over my career I've delivered **50+ AI projects**, contributed to **10+ EU-funde
 
 ## 🔧 Tech Stack & Tools
 
-- **Artificial Intelligence:** RAG, AI Agents, Generative AI, LLMs, Prompt Engineering, Machine Learning, Deep Learning, NLP, Federated Learning, Neural Networks
-- **Frameworks & Languages:** Python, LangGraph, LangChain, TensorFlow, PyTorch, Transformers, FastAPI, scikit-learn, REST APIs
-- **Data Science & Engineering:** SQL, Apache Spark, PySpark, Data Analysis & Visualization, Tableau, Power BI, Data Mining
+- **Artificial Intelligence:** RAG, AI Agents, Generative AI, LLMs, LLM Evaluation, Prompt Engineering, Machine Learning, Deep Learning, NLP, Information Extraction, Anomaly & Intrusion Detection, Federated Learning
+- **Frameworks & Languages:** Python, C#, LangGraph, LangChain, LiteLLM, Chainlit, TensorFlow, PyTorch, Transformers, FastAPI, scikit-learn, REST APIs
+- **Data Science & Engineering:** SQL, ClickHouse, Apache Spark, PySpark, Data Analysis & Visualization, Tableau, Power BI, Data Mining
 - **Cloud & Infrastructure:** Microsoft Azure, Azure AI Foundry, Azure AI Search, Azure Databricks, Azure OpenAI, Azure Functions, Docker, Kubernetes, Vector Databases, DevOps
 
 ---
 
 ## 🚀 Experience Highlights
 
-- 🏛️ **Grant Thornton** *(Jan 2026 – Present)* — Senior ML Engineer, AI Consultant & Software Developer, leading Agentic AI & ML/DL solutions for Greece's Independent Authority for Public Revenue.
-- 🏛️ **EETAA** *(2025 – Present)* — Senior Software Engineering Consultant, orchestrating enterprise-scale legacy-to-modern systems migration for government initiatives.
-- 🏦 **IBM — National Bank of Greece** *(2025)* — Enterprise AI Banking Solutions Architect, architecting and deploying intelligent automation agents.
+- 🏛️ **Grant Thornton** *(Jan 2026 – Present)* — Senior ML Engineer, AI Consultant & Software Developer:
+  - **Data and AI Driven Tax Audits** *(Jan 2026 – Present)* — Data Science, Machine Learning and LLMs that suggest targeted audits to Greece's Independent Authority for Public Revenue (IAPR).
+  - **Automated Information Retrieval & Extraction for Greek Public Funding Programs** *(Feb 2026 – Present)* — Crawlers and LLMs that retrieve and extract information from public funding program websites for a banking client.
+  - **FINCARE** *(Jan 2026 – Jun 2026)* — Design and development of Data and ML-driven anomaly and intrusion detection systems for cybersecurity.
+- 🏛️ **EETAA** *(Feb 2025 – Present)* — Senior Software Engineering Consultant, orchestrating the systems migration & redesign of key government applications onto modern platforms (C#, .NET).
+- 🏦 **IBM — National Bank of Greece** *(Jan 2025 – Dec 2025)* — Enterprise AI Banking Solutions Architect, driving digital transformation with LLMs, RAG pipelines, agentic AI and synthetic data.
 - 🌍 **INLECOM** *(2023 – 2024)* — Delivered CONNECTOR (EU border security), EMERALDS (smart city mobility), and CRM-geothermal (critical raw materials AI) Horizon Europe projects.
 - 🛡️ **MetaMind Innovations** *(2022 – 2023)* — Delivered ELECTRON, DYNABIC, TERMINET, and AI4CYBER — Horizon 2020/Europe cybersecurity and IoT platforms.
 - 🎥 **Fogus Innovations** *(2019 – 2022)* — Delivered OPTIMIST, INCOGNITO, RE-CENT, and SECONDO — 5G, privacy, decentralized content, and cyber-risk platforms.
@@ -47,7 +50,9 @@ Over my career I've delivered **50+ AI projects**, contributed to **10+ EU-funde
 
 ## 🧠 Open-Source Projects
 
-- 💬 [**Mackie**](https://github.com/nepiskopos/mackie) – Agentic AI social media assistant for nonprofit marketing teams, built on LangGraph with an agent-tools loop.
+- 📈 [**Governed Analyst Agent**](https://github.com/nepiskopos/governed-analyst-agent) – Natural-language LLM analyst over a multi-tenant ClickHouse warehouse, with a semantic layer, database-enforced tenant isolation, a churn model and a 46-question eval harness.
+- 🕵️ [**API Hunting Agent**](https://github.com/nepiskopos/api-hunting-agent) – Autonomous reason–act–observe LLM agent that probes OWASP crAPI and reports information-disclosure findings.
+- 💬 [**Mackie**](https://github.com/nepiskopos/conversational-social-media-agent) – Conversational social media assistant for nonprofit marketing teams that researches the org, drafts on-brand posts, learns its voice from feedback, and tracks a post ledger (LangGraph, LiteLLM, Chainlit).
 - 🔐 [**LangGraph PII Detector**](https://github.com/nepiskopos/langgraph-pii-detector) – Advanced PII detector implemented in LangGraph, powered by Azure OpenAI.
 - 📄 [**Document Summarization AI**](https://github.com/nepiskopos/langgraph-document-summarization) – Intelligent document summarization system built with LangGraph and Azure OpenAI.
 - 🧪 [**LLM Fine-tuning with LoRA**](https://github.com/nepiskopos/llm-finetuning-with-lora) – End-to-end guide and toolkit for fine-tuning and deploying a custom LLM assistant using LoRA/PEFT.
@@ -79,10 +84,11 @@ See my full publication history on [ORCID](https://orcid.org/0009-0004-7130-3874
 
 ## 🧩 What I’m Working On
 
-- Agentic AI workflows with LangGraph for real-world automation
+- Data, ML and LLM-driven audit targeting for public revenue authorities
+- LLM-powered web crawling and information extraction pipelines
+- Governed, evaluated LLM agents: grounded answers, tenant isolation, eval harnesses
+- Autonomous LLM agents for security testing and anomaly/intrusion detection
 - Enterprise RAG pipelines on Azure AI Search and Azure AI Foundry
-- Open-source LLM integrations with real-time data via RAG
-- Privacy-preserving and federated AI systems for sensitive domains
 
 ---
 
